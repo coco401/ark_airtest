@@ -1,0 +1,1 @@
+airtest run ark.air --device Android:///
